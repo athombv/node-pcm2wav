@@ -1,0 +1,30 @@
+{
+  "name": "pcm2wav",
+  "version": "1.0.0",
+  "description": " Command line utility to convert .pcm files to .wav",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/athombv/pcm2wav.git"
+  },
+  "keywords": [
+    "pcm2wav",
+    "pcm",
+    "wav"
+  ],
+  "author": "Emile Nijssen <emile@athom.nl> (https://www.athom.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athombv/pcm2wav/issues"
+  },
+  "homepage": "https://github.com/athombv/pcm2wav#readme",
+  "bin": {
+    "pcm2wav": "./bin/index"
+  },
+  "dependencies": {
+    "wav": "^1.0.0"
+  }
+}
