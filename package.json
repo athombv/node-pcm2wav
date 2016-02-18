@@ -1,6 +1,6 @@
 {
   "name": "pcm2wav",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": " Command line utility to convert .pcm files to .wav",
   "main": "index.js",
   "scripts": {
