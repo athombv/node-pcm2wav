@@ -26,5 +26,9 @@
   },
   "dependencies": {
     "wav": "^1.0.0"
+  },
+  "config": {
+    "npmPublishTagProduction": "latest",
+    "npmPublishTagStaging": "beta"
   }
 }
